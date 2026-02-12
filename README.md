@@ -19,6 +19,8 @@ I enjoy solving real-world problems with clean code, modern tooling, and automat
 ---
 
 ### 📚 Currently Learning
+- MIkrotik API(Use of Router OS)
+- Building a ISP Billing and Management System
 - Advanced DevOps (Traefik, CI/CD pipelines, GitHub Actions)
 - Kubernetes & cloud infrastructure
 - Performance optimization & scalable architectures
@@ -33,7 +35,8 @@ I enjoy solving real-world problems with clean code, modern tooling, and automat
 ---
 
 ### 📫 How to Reach Me
-- **Email:** muli.stephenn@gmail.com  
+- **Email:** developer.muli@gmail.com
+- **Work Email** support@pasbestventures.com 
 - **GitHub:** [ascorpiamuli](https://github.com/ascorpiamuli)
 
 ---
@@ -42,7 +45,9 @@ I enjoy solving real-world problems with clean code, modern tooling, and automat
 **Frontend:** React, Next.js, TypeScript, TailwindCSS  
 **Backend:** Node.js, Express, Supabase, PostgreSQL  
 **DevOps:** Docker, Traefik, CI/CD, GitHub Actions  
-**Tools:** VSCode, Linux, Nginx, Postman
+**Tools:** VSCode, Linux, Nginx, Postman,Mikrotik
+
+**Operating Systems:** Linux(Ubuntu), Windows, Router OS
 
 ---
 
